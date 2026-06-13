@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "components": "Componentes",
+    "blocks": "Bloques",
+    "blog": "Blog",
+    "sponsors": "Patrocinadores",
+    "testimonials": "Testimonios"
+  },
+  "section": {
+    "hello": "Hola",
+    "overview": "Resumen",
+    "socialLinks": "Redes Sociales",
+    "stack": "Stack",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "awards": "Premios",
+    "certifications": "Certificaciones",
+    "bookmarks": "Favoritos",
+    "insights": "Estadisticas",
+    "components": "Componentes",
+    "blog": "Blog",
+    "sponsors": "Patrocinadores",
+    "testimonials": "Testimonios",
+    "list": "Lista",
+    "showcase": "Vitrina",
+    "trustedRegistry": "Registry de Confianza"
+  },
+  "action": {
+    "allComponents": "Todos los Componentes",
+    "allPosts": "Todos los Posts",
+    "allSponsors": "Todos los Patrocinadores",
+    "showMore": "Mostrar mas",
+    "showLess": "Mostrar menos",
+    "sponsorMyWork": "Patrocinar mi Trabajo",
+    "copyLink": "Copiar enlace",
+    "shareOnX": "Compartir en X",
+    "shareOnLinkedIn": "Compartir en LinkedIn",
+    "otherApp": "Otra app",
+    "copyPage": "Copiar Pagina",
+    "viewAsMarkdown": "Ver como Markdown",
+    "openInGitHub": "Abrir en GitHub",
+    "openInChatGPT": "Abrir en ChatGPT",
+    "openInClaude": "Abrir en Claude",
+    "goHome": "Ir al Inicio",
+    "viewMoreTestimonials": "Ver mas testimonios",
+    "pronounceMyName": "Pronunciar mi nombre"
+  },
+  "label": {
+    "location": "Ubicacion",
+    "website": "Sitio web",
+    "pronouns": "Pronombres",
+    "uniqueVisitors": "Visitantes Unicos",
+    "sessions": "Sesiones",
+    "views": "Vistas",
+    "noInsights": "Sin estadisticas disponibles.",
+    "noPosts": "No se encontraron publicaciones.",
+    "new": "Nuevo",
+    "updated": "Actualizado",
+    "fig01": "Fig.01",
+    "fig02": "Fig.02",
+    "issuedBy": "Emitido por",
+    "issuedOn": "Emitido el",
+    "publishedOn": "Publicado el",
+    "hello": "Hola",
+    "status": "Estado",
+    "fullTime": "Tiempo completo",
+    "partTime": "Medio tiempo",
+    "internship": "Pasantia",
+    "freelance": "Freelance",
+    "contract": "Contrato"
+  },
+  "status": {
+    "linkCopied": "Enlace copiado",
+    "sponsorDescription": "Agradecido con los patrocinadores que hacen posible este trabajo de codigo abierto.",
+    "notFoundTitle": "Pagina no encontrada",
+    "notFoundDescription": "La pagina que buscas no existe o ha sido movida."
+  },
+  "footer": {
+    "craftedWith": "HECHO CON CUIDADO POR JQ"
+  },
+  "profile": {
+    "pronouns": "el"
+  },
+  "experience": {
+    "education": "Educacion",
+    "present": "Presente",
+    "employmentPeriod": "Periodo de Empleo"
+  }
+}

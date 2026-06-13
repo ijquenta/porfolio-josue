@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "components": "Components",
+    "blocks": "Blocks",
+    "blog": "Blog",
+    "sponsors": "Sponsors",
+    "testimonials": "Testimonials"
+  },
+  "section": {
+    "hello": "Hello",
+    "overview": "Overview",
+    "socialLinks": "Social Links",
+    "stack": "Stack",
+    "experience": "Experience",
+    "projects": "Projects",
+    "awards": "Awards",
+    "certifications": "Certifications",
+    "bookmarks": "Bookmarks",
+    "insights": "Insights",
+    "components": "Components",
+    "blog": "Blog",
+    "sponsors": "Sponsors",
+    "testimonials": "Testimonials",
+    "list": "List",
+    "showcase": "Showcase",
+    "trustedRegistry": "Trusted Registry"
+  },
+  "action": {
+    "allComponents": "All Components",
+    "allPosts": "All Posts",
+    "allSponsors": "All Sponsors",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "sponsorMyWork": "Sponsor My Work",
+    "copyLink": "Copy link",
+    "shareOnX": "Share on X",
+    "shareOnLinkedIn": "Share on LinkedIn",
+    "otherApp": "Other app",
+    "copyPage": "Copy Page",
+    "viewAsMarkdown": "View as Markdown",
+    "openInGitHub": "Open in GitHub",
+    "openInChatGPT": "Open in ChatGPT",
+    "openInClaude": "Open in Claude",
+    "goHome": "Go to Home",
+    "viewMoreTestimonials": "View more testimonials",
+    "pronounceMyName": "Pronounce my name"
+  },
+  "label": {
+    "location": "Location",
+    "website": "Website",
+    "pronouns": "Pronouns",
+    "uniqueVisitors": "Unique Visitors",
+    "sessions": "Sessions",
+    "views": "Views",
+    "noInsights": "No insights available.",
+    "noPosts": "No posts found.",
+    "new": "New",
+    "updated": "Updated",
+    "fig01": "Fig.01",
+    "fig02": "Fig.02",
+    "issuedBy": "Issued by",
+    "issuedOn": "Issued on",
+    "publishedOn": "Published on",
+    "hello": "Hello",
+    "status": "Status",
+    "fullTime": "Full-time",
+    "partTime": "Part-time",
+    "internship": "Internship",
+    "freelance": "Freelance",
+    "contract": "Contract"
+  },
+  "status": {
+    "linkCopied": "Link copied",
+    "sponsorDescription": "Grateful to the sponsors who make this open-source work possible.",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The page you are looking for does not exist or has been moved."
+  },
+  "footer": {
+    "craftedWith": "CRAFTED WITH CARE BY JQ"
+  },
+  "profile": {
+    "pronouns": "he/him"
+  },
+  "experience": {
+    "education": "Education",
+    "present": "Present",
+    "employmentPeriod": "Employment Period"
+  }
+}

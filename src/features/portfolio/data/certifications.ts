@@ -1,0 +1,88 @@
+import type { Certification } from "../types/certifications"
+
+export const CERTIFICATIONS: Certification[] = [
+  {
+    title: "Curso de Autenticacion con Angular",
+    issuer: "Platzi",
+    issueDate: "2024",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "FastAPI Path Operations, Validaciones y Autenticacion",
+    issuer: "Platzi",
+    issueDate: "2024",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Fundamentos de Angular",
+    issuer: "Platzi",
+    issueDate: "2024",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Introduccion a REACT.JS",
+    issuer: "Platzi",
+    issueDate: "2024",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Frameworks y Librerias de JavaScript",
+    issuer: "Platzi",
+    issueDate: "2024",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Taller Introduccion a Flutter",
+    issuer: "UMSA",
+    issueDate: "",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Panorama Nacional e Internacional de la Proteccion de Datos Personales",
+    issuer: "Instituto de Investigaciones de Informatica, UMSA",
+    issueDate: "2021",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Testing desde el dia cero y desde el interior",
+    issuer: "Instituto de Investigaciones de Informatica, UMSA",
+    issueDate: "2021",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Desplegando una API Rest en Kubernetes",
+    issuer: "Instituto de Investigaciones de Informatica, UMSA",
+    issueDate: "2021",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Python para Todos",
+    issuer: "Colegio de Profesionales en Ciencias de la Educacion",
+    issueDate: "2021",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Arduino Day 2019",
+    issuer: "Carrera de Informatica, UMSA",
+    issueDate: "2019",
+    credentialID: "",
+    credentialURL: "#",
+  },
+  {
+    title: "Taller de Ensamblaje de Computadoras",
+    issuer: "Carrera de Informatica, UMSA",
+    issueDate: "2019",
+    credentialID: "",
+    credentialURL: "#",
+  },
+]
